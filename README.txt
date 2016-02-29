@@ -23,9 +23,8 @@ Instructions:
     The arrays are organized as [calories, fat, carbs, protein]. As I am quite boring, I haven't included very many.)
 7)  Optionally, include sleep and bodyfat percentage in the top portion of the Tracking cell.
 8)  Use the 'Database Insertion' cell to insert your day's data into MongoDB. This should "just work" if you you have MongoDB
-    
     running on another terminal window and PyMongo installed.
 9)  Use the 'Data Retrieval' cell to retrieve your data.
-10) Optionally, graph your data with the graphing cell! This will show you your stats over time. You can change what is shown 
+10) Optionally, graph your data with the graphing cell! This will show you your stats over time. You can change what is shown
     by editing the "ax.plot" lines and corresponding "ax.set_title" lines.
 11) That's it! Be sure to look for trends in the graphs. They'll be invaluable in helping to reveal what is causing what.
