@@ -19,6 +19,8 @@ Instructions:
 4)  Run the 'Utility Calculations' cell to get an initial estimate for your macros (algorithm borrowed from IIFYM.com and Wikipedia)
 5)  Add your weight for today to the top of the 'Tracking' cell.
 6)  As you go through your day, record your meals by adding them to the meal variables in the Tracking cell.
+    (Feel free to add foods to the food part of the 'Initial setup' cell;
+    The arrays are organized as [calories, fat, carbs, protein]. As I am quite boring, I haven't included very many.)
 7)  Optionally, include sleep and bodyfat percentage in the top portion of the Tracking cell.
 8)  Use the 'Database Insertion' cell to insert your day's data into MongoDB. This should "just work" if you you have MongoDB     running on another terminal window and PyMongo installed.
 9)  Use the 'Data Retrieval' cell to retrieve your data.
